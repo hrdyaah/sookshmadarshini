@@ -31,7 +31,7 @@ The Community Safety Reporting Platform provides a secure, anonymous, and user-f
 For Software:
 - [Languages used]
 - REACT
-- [Libraries used]
+- Node.js
 - [Tools used]
 
 For Hardware:
