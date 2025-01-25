@@ -30,7 +30,7 @@ The Community Safety Reporting Platform provides a secure, anonymous, and user-f
 ### Technologies/Components Used
 For Software:
 - [Languages used]
-- [Frameworks used]
+- REACT
 - [Libraries used]
 - [Tools used]
 
